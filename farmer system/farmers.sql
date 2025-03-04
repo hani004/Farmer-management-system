@@ -114,7 +114,7 @@ CREATE TABLE `test` (
 --
 
 INSERT INTO `test` (`id`, `name`) VALUES
-(1, 'harshith');
+(1, 'haniah');
 
 -- --------------------------------------------------------
 
